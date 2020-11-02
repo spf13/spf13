@@ -11,6 +11,12 @@
   <a href="https://github.com/gohugoio/hugo"><img src="https://img.shields.io/github/stars/gohugoio/hugo.svg?label=Hugo&style=social" alt="Hugo on GitHub"></a>
   <a href="https://github.com/spf13/cobra"><img src="https://img.shields.io/github/stars/spf13/cobra.svg?label=Cobra&style=social" alt="Cobra on Github"></a>
   <a href="https://github.com/spf13/viper"><img src="https://img.shields.io/github/stars/spf13/viper.svg?label=Viper&style=social" alt="Viper on GitHub"></a>
+  <a href="https://github.com/spf13/spf13-vim"><img src="https://img.shields.io/github/stars/spf13/spf13-vim.svg?label=spf13-vim&style=social" alt="spf13-vim on GitHub"></a>
+</p>
+<p align="center">
+  <span> Former:   </span>
+  <a href="https://github.com/moby/moby"><img src="https://img.shields.io/github/stars/moby/moby.svg?label=Moby&style=social" alt="Moby on GitHub"></a>
+  <a href="https://github.com/mongodb/mongo"><img src="https://img.shields.io/github/stars/mongodb/mongo.svg?label=MongoDB&style=social" alt="MongoDB on GitHub"></a>
 </p>
 
 <!--
